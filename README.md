@@ -1,5 +1,5 @@
 > #### Projetos privados
-| Projetos                     | Descrição                                                    |
+| Projetos Privados            | Descrição                                                    | 
 |------------------------------|--------------------------------------------------------------|
 | `Token Front`                | Sistema de pagamentos BTC P2P                                |
 | `FrontLife Server SA:MP`     | Servidor com SubGameModes para SA:MP                         |
