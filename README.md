@@ -1,2 +1,3 @@
 ## My Contribution snake
-![Contribution snake example](https://github.com/<HigorNRX>/<HigorNRX>/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/HigorNRX/gitrepo/output/snake.svg" alt="Snake animation" />
+
