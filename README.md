@@ -2,7 +2,7 @@
 | Projetos                     | Descrição                                                    |
 |------------------------------|--------------------------------------------------------------|
 | `Token Front`                | Sistema de pagamentos BTC P2P                                |
-| `FrontLife Server SA:MP`     | Servidor multimodos de SA:MP                                 |
+| `FrontLife Server SA:MP`     | Servidor com SubGameModes para SA:MP                         |
 | `Front Debug Test FS`        | Base completo debugs de FilterScripts                        |
 | `Portifolio`                 | Portifolio Pessoal                                           |
 >  ---
