@@ -7,14 +7,19 @@
 
 | Projetos Privados            | Descrição                                                    | 
 |------------------------------|--------------------------------------------------------------|
-| `Token Front`                | Sistema de pagamentos BTC P2P                                |
+| `Token Front`                | Gateway de pagamento                                         |
 | `FrontLife Server SA:MP`     | Servidor com SubGameModes para SA:MP                         |
+| `FrontLife Site`             | Site do FrontLife Server                                     |
 | `Front Debug Test FS`        | Base completa debugs de FilterScripts                        |
 | `Portifolio`                 | Portifolio Pessoal                                           |
+| `Galo WebDevTools`           | Site para hospedar ferramentas                               |
+| `Angular Crowbar`            | Jogo FPS  Multiplayer de luta armada sendo criado no Unity3D |
+| `Darling`                    | Declaração de amor em formato digital                        |
+| `Friendly Links`             | gerar Links incriveis patrocinados                           |
 >  ---
 | Projetos Publicos            | Descrição                                                    | 
 |------------------------------|--------------------------------------------------------------|
-| [SpectateTV.inc](https://github.com/HigorNRX/SpectateTV.inc-SA-MP)                | System Spectate no interruption                                | |
+| [SpectateTV.inc](https://github.com/HigorNRX/SpectateTV.inc-SA-MP)                 | System Spectate no interruption                                | |
 >  ---
 <img src="https://raw.githubusercontent.com/HigorNRX/HigorNRX/output/snake.svg" alt="Snake animation" />
 
